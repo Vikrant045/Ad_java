@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch pyramid",
+            "request": "launch",
+            "mainClass": "pyramid",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Revrse_AN_Array",
+            "request": "launch",
+            "mainClass": "Revrse_AN_Array",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Remove_Ele_From_Array",
+            "request": "launch",
+            "mainClass": "Remove_Ele_From_Array",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency",
+            "request": "launch",
+            "mainClass": "frequency",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch FrequencyOf_Array",
+            "request": "launch",
+            "mainClass": "FrequencyOf_Array",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOf_TwoArrays",
+            "request": "launch",
+            "mainClass": "SumOf_TwoArrays",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarChat",
+            "request": "launch",
+            "mainClass": "BarChat",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch vRR",
+            "request": "launch",
+            "mainClass": "vRR",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arr_Practice",
+            "request": "launch",
+            "mainClass": "Arr_Practice",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrAndStack",
+            "request": "launch",
+            "mainClass": "ArrAndStack",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch hasNext",
+            "request": "launch",
+            "mainClass": "hasNext",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch testt",
+            "request": "launch",
+            "mainClass": "testt",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch shubhFirst",
+            "request": "launch",
+            "mainClass": "shubhFirst",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch learnSwing",
+            "request": "launch",
+            "mainClass": "learnSwing",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstAwt",
+            "request": "launch",
+            "mainClass": "firstAwt",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reflects",
+            "request": "launch",
+            "mainClass": "Reflects",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch All_imp",
+            "request": "launch",
+            "mainClass": "All_imp",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch threadds",
+            "request": "launch",
+            "mainClass": "threadds",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyFileContent",
+            "request": "launch",
+            "mainClass": "CopyFileContent",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch fileRead",
+            "request": "launch",
+            "mainClass": "fileRead",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch fileInfo",
+            "request": "launch",
+            "mainClass": "fileInfo",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch files",
+            "request": "launch",
+            "mainClass": "files",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch exceppp",
+            "request": "launch",
+            "mainClass": "exceppp",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaCollections",
+            "request": "launch",
+            "mainClass": "javaCollections",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch thd",
+            "request": "launch",
+            "mainClass": "thd",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch file",
+            "request": "launch",
+            "mainClass": "file",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch excepp",
+            "request": "launch",
+            "mainClass": "excepp",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Collections",
+            "request": "launch",
+            "mainClass": "Collections",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch construct",
+            "request": "launch",
+            "mainClass": "construct",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abs",
+            "request": "launch",
+            "mainClass": "Abs",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch abs",
+            "request": "launch",
+            "mainClass": "abs",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inherts",
+            "request": "launch",
+            "mainClass": "Inherts",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encaps",
+            "request": "launch",
+            "mainClass": "Encaps",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch N_String",
+            "request": "launch",
+            "mainClass": "N_String",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOD",
+            "request": "launch",
+            "mainClass": "OOD",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch D",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vikrant",
+            "request": "launch",
+            "mainClass": "Vikrant",
+            "projectName": "Ad_java_65b72c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "Ad_java_65b72c28"
+        }
+    ]
+}
